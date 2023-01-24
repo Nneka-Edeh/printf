@@ -1,2 +1,5 @@
-Team project on printf
-This is a project between Nneka Edeh and Chukwunwike Udechukwu
+# Printf project, our first ALX team project                                                                                            
+# Creating Printf Function                                                                                                              
+### collaborators:                                                                                                                      
+* NNEKA EDEH --Nneka-Edeh                                                                                                             
+* CHUKWUNWIKE UDECHUKWU --Ezebillion
